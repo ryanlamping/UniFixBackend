@@ -1,2 +1,5 @@
 core/config.py
 .env
+
+__pycache__/
+*.py[cod]
